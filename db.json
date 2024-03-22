@@ -1,0 +1,48 @@
+{
+    "producto":
+    [
+        {
+            "Id":1,
+            "Descripcion":"Mouse",
+            "Precio":"30.00",
+            "Imagen":"https://i.ibb.co/frz7337/raton.png"
+        },
+        {
+            "Id":2,
+            "Descripcion":"Audifono",
+            "Precio":"50.00",
+            "Imagen":"https://i.ibb.co/R3YSjwX/audifono.png"
+        },
+        {
+            "Id":3,
+            "Descripcion":"Pantalla",
+            "Precio":"80.00",
+            "Imagen":"https://i.ibb.co/LY58r9K/pantalla.png"
+        },
+        {
+            "Id":4,
+            "Descripcion":"Teclado",
+            "Precio":"70.00",
+            "Imagen":"https://i.ibb.co/2NF7bNQ/teclado.png"
+        },
+        {
+            "Id":5,
+            "Descripcion":"Impresora",
+            "Precio":"100.00",
+            "Imagen":"https://i.ibb.co/68CPMV2/impresora.png"
+        },
+        {
+            "Id":6,
+            "Descripcion":"Cargador",
+            "Precio":"10.00",
+            "Imagen":"https://i.ibb.co/7JbXg5b/cargador.png"
+        }
+
+        
+
+
+
+
+
+    ]
+}
